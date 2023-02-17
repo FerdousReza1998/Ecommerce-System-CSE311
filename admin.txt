@@ -1,4 +1,5 @@
 
+'Ecommerce' is name the folder where the project was kept
 
 database name should be = mm_ecom
 to get into the user mode:  http://localhost/Ecommerce/
